@@ -3,6 +3,16 @@
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/caisy-io/caisy-example-astro)
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/caisy-io/caisy-example-astro)
 
+Dependencies: 
+- @caisy/rich-text-astro-renderer
+- graphql
+- graphql-request
+
+To use them in another existing project:
+```
+npm install @caisy/rich-text-astro-renderer graphql graphql-request --save
+```
+
 ## This project is started with Astro Starter Kit: Minimal
 ```
 npm create astro@latest -- --template minimal
