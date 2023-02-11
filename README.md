@@ -1,7 +1,6 @@
 # Astro x Caisy
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/caisy-io/caisy-example-astro)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/caisy-io/caisy-example-astro)
 
 Dependencies: 
 - @caisy/rich-text-astro-renderer
