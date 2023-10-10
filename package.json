@@ -11,9 +11,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@caisy/rich-text-astro-renderer": "^0.1.1",
-    "astro": "^2.0.6",
-    "graphql": "^16.6.0",
-    "graphql-request": "^5.1.0"
+    "@caisy/rich-text-astro-renderer": "^1.0.1",
+    "astro": "^3.2.3",
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0"
   }
 }
