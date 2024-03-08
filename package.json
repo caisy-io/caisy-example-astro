@@ -12,8 +12,11 @@
   },
   "dependencies": {
     "@caisy/rich-text-astro-renderer": "^1.0.1",
-    "astro": "^3.2.3",
+    "astro": "^3.6.5",
     "graphql": "^16.8.1",
     "graphql-request": "^6.1.0"
+  },
+  "volta": {
+    "node": "18.19.1"
   }
 }
